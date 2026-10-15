@@ -1,3 +1,7 @@
+# ⚠️ **Notice**  
+This repository is **archived on October 15, 2026**.  
+The new repository for Developing with GitHub Copilot labs can be found here: [MicrosoftLearning/mslearn-github-copilot-dev](https://github.com/MicrosoftLearning/mslearn-github-copilot-dev)
+
 # AZ-2007: Accelerate app development by using GitHub Copilot
 
 **Are you an MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
